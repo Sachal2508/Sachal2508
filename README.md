@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4ac560c5-d9eb-4623-b1f7-99c2905320be"  width="100%" alt="Banner" />
+  <img src="https://github.com/user-attachments/assets/d9bf83ab-d051-4bba-b0d4-a3101045aa4e"  width="100%" alt="Banner" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Muhammad Sachal!</h1>
 <p align="center">Software Developer | AI Enthusiast | .NET + Python | Always Exploring New Tech 🚀</p>
