@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a74491c6-ca2b-49ba-a727-1249b121c240"  width="100%" alt="Banner" />
+  <img src="https://github.com/user-attachments/assets/4ac560c5-d9eb-4623-b1f7-99c2905320be"  width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Sachal!</h1>
