@@ -24,7 +24,7 @@
 
 ### 📊 Muhammad Sachal's GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadsachal&show_icons=true&theme=radical)
+![Muhammad Sachal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachal2508&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsachal&layout=compact&theme=radical)
 
 
