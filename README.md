@@ -35,6 +35,7 @@
 - 🎙️ Voice Assistant using Python
 - 💻 .NET & C# Projects
 - 🌐 Full Stack Apps (Flask, Django)
+  <img src="https://github.com/user-attachments/assets/a203ac49-75b4-46cf-99f3-a26f91662c8d" width="150" alt="" />
 
 ---
 
@@ -45,7 +46,8 @@
   IoT & Game Dev<br>
   Data Science
   Artificial Intelligence<br>                
-  <img src="https://github.com/user-attachments/assets/a203ac49-75b4-46cf-99f3-a26f91662c8d" width="150" alt="Colab" />
+  <img src="https://github.com/user-attachments/assets/0416c3a8-c535-4ae9-8cc1-a3fddec41d40" width="150" alt="" />
+
 </p>
 
 
