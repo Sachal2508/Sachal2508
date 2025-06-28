@@ -26,7 +26,6 @@
 
 ![Muhammad Sachal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadsachal&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsachal&layout=compact&theme=radical)
-<img src="https://github.com/user-attachments/assets/a203ac49-75b4-46cf-99f3-a26f91662c8d" width="250" alt="Typing animation"/>
 
 
 ---
@@ -42,7 +41,7 @@
 ## 🤝 Collaborate With Me On
 
 <p>
-  <img src="assets/handshake.gif" width="30" alt="handshake gif" />
+  <img src="https://github.com/user-attachments/assets/a203ac49-75b4-46cf-99f3-a26f91662c8d" width="30" alt="" />
   <strong>🤝 Collaborate With Me On</strong><br>
   Artificial Intelligence<br>
   Web Development<br>
