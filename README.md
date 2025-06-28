@@ -41,10 +41,11 @@
 ## 🤝 Collaborate With Me On
 
 <p>
-  Artificial Intelligence<br>                <img src="https://github.com/user-attachments/assets/a203ac49-75b4-46cf-99f3-a26f91662c8d" width="80" alt="Colab" />
   Web Development<br>
   IoT & Game Dev<br>
   Data Science
+  Artificial Intelligence<br>                
+  <img src="https://github.com/user-attachments/assets/a203ac49-75b4-46cf-99f3-a26f91662c8d" width="150" alt="Colab" />
 </p>
 
 
