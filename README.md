@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d9bf83ab-d051-4bba-b0d4-a3101045aa4e"  width="100%" alt="Banner" />
+  <img src="https://github.com/user-attachments/assets/0d23ebcb-41a7-4c95-bfd3-0fcbcedbbfa5"  width="100%" alt="Banner" />
 </p>
+
+![ezgif-43dc4f3a01b9f8]()
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Sachal!</h1>
@@ -37,6 +39,7 @@
 - 🌐 Full Stack Apps (Flask, Django)
   
   <img src="https://github.com/user-attachments/assets/a203ac49-75b4-46cf-99f3-a26f91662c8d" width="150" alt="" />
+  
 
 ---
 
