@@ -26,7 +26,7 @@
 
 ![Muhammad Sachal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadsachal&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsachal&layout=compact&theme=radical)
-![219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8](https://github.com/user-attachments/assets/a203ac49-75b4-46cf-99f3-a26f91662c8d)
+<img src="https://github.com/user-attachments/assets/a203ac49-75b4-46cf-99f3-a26f91662c8d" width="250" alt="Typing animation"/>
 
 
 ---
