@@ -41,10 +41,15 @@
 
 ## 🤝 Collaborate With Me On
 
-- Artificial Intelligence
-- Web Development
-- IoT & Game Dev
-- Data Science
+<p>
+  <img src="assets/handshake.gif" width="30" alt="handshake gif" />
+  <strong>🤝 Collaborate With Me On</strong><br>
+  Artificial Intelligence<br>
+  Web Development<br>
+  IoT & Game Dev<br>
+  Data Science
+</p>
+
 
 ---
 
