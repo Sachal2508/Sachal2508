@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/0d23ebcb-41a7-4c95-bfd3-0fcbcedbbfa5"  width="100%" alt="Banner" />
 </p>
 
-![ezgif-43dc4f3a01b9f8]()
-
 
 <h1 align="center">Hi 👋, I'm Muhammad Sachal!</h1>
 <p align="center">Software Developer | AI Enthusiast | .NET + Python | Always Exploring New Tech 🚀</p>
