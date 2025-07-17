@@ -45,9 +45,9 @@
 
 <p>
   Web Development<br>
-  IoT & Game Dev<br>
-  Data Science
+  Data Science<br>
   Artificial Intelligence<br>                
+  Machine Learning<br>
   <img src="https://github.com/user-attachments/assets/0416c3a8-c535-4ae9-8cc1-a3fddec41d40" width="150" alt="" />
 
 </p>
