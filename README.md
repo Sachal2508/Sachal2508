@@ -34,7 +34,7 @@
 
 - 📘 Learning Julia Programming
 - 🤖 Exploring Artificial Intelligence
-- ☕ Practicing Java Development
+- 🌐 Practicing JavaScript Development
   
   <img src="https://github.com/user-attachments/assets/a203ac49-75b4-46cf-99f3-a26f91662c8d" width="150" alt="" />
   
