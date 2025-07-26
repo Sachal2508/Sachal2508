@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Sachal!</h1>
-<p align="center">Software Developer | AI Enthusiast | .NET + Python | Always Exploring New Tech 🚀</p>
+<p align="center">Software Developer | AI Enthusiast | Always Exploring New Tech 🚀</p>
 
 
 ---
