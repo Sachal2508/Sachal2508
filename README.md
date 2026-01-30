@@ -2,6 +2,10 @@
   <img src="https://github.com/user-attachments/assets/0d23ebcb-41a7-4c95-bfd3-0fcbcedbbfa5" width="100%" alt="Banner" />
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+</div>
+
 <h1 align="center">Muhammad Sachal</h1>
 <h3 align="center">Full-Stack Developer | AI/ML Engineer | Problem Solver</h3>
 
@@ -33,6 +37,10 @@ me = Developer()
 me.say_hi()
 ```
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding"/>
+</div>
+
 ---
 
 ## 🚀 What I Bring to the Table
@@ -48,6 +56,10 @@ me.say_hi()
 ---
 
 ## 🛠️ Technology Arsenal
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Coding Animation"/>
+</div>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -71,18 +83,30 @@ me.say_hi()
 
 ## 📊 GitHub Performance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachal2508&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachal2508&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachal2508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachal2508&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachal2508&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachal2508&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sachal2508&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" width="80%"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
 ## 🎯 Current Focus Areas
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Developer at work"/>
+</div>
 
 <table>
   <tr>
@@ -110,6 +134,10 @@ me.say_hi()
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachal2508&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="90%"/>
+</div>
+
 ## 💼 Why Work With Me?
 
 **🎯 Results-Driven**: I don't just write code—I deliver solutions that meet business objectives and exceed expectations.
@@ -125,6 +153,12 @@ me.say_hi()
 ---
 
 ## 📫 Let's Connect
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Waving hand"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+</div>
+
+<br>
 
 I'm always interested in discussing new opportunities, innovative projects, or just talking tech. Reach out if you're looking for a developer who brings both technical expertise and genuine passion to the table.
 
