@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=SYSTEM+INITIALIZED...;WELCOME+TO+MY+DIGITAL+WORKSPACE;Full-Stack+Developer+%7C+AI%2FML+Engineer;Building+The+Future%2C+One+Line+At+A+Time" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003300,100:00FF41&height=220&section=header&text=Muhammad%20Sachal&fontSize=65&fontColor=00FF41&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Problem%20Architect&descAlignY=62&descSize=20&descColor=aaffaa" width="100%"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=SYSTEM+INITIALIZED...;WELCOME+TO+MY+DIGITAL+WORKSPACE;Full-Stack+Developer+%7C+AI%2FML+Engineer;Building+The+Future%2C+One+Line+At+A+Time" alt="Typing SVG" />
+
+</div>
+
+---
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -13,51 +19,50 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&width=500&lines=Full-Stack+Developer;AI%2FML+Engineer;CS+Student+%40+FAST+NUCES;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&width=435&lines=Full-Stack+Developer;AI%2FML+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <a href="mailto:sachalkool@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-sachal-9a929136a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Sachal2508"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://sachal2508.github.io/"><img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefox&logoColor=black" /></a>
-  <a href="https://www.instagram.com/muhammad.sachal.773/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:sachalkool@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-sachal-9a929136a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Sachal2508">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://sachal2508.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sachal2508&label=Profile%20Views&color=00ff41&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Sachal2508?label=Followers&style=for-the-badge&color=00ff41" />
+  <img src="https://komarev.com/ghpvc/?username=Sachal2508&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Sachal2508?label=Followers&style=for-the-badge&color=00ff41" alt="followers" />
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> About Me
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
 class Developer:
     def __init__(self):
-        self.name       = "Muhammad Sachal"
-        self.role       = "Full-Stack Developer & AI Engineer"
-        self.location   = "Rahim Yar Khan, Punjab, Pakistan"
-        self.university = "FAST NUCES Lahore — BS CS (5th Semester)"
-        self.languages  = ["Python", "C/C++", "C#", "JavaScript",
-                           "Assembly (Intel 8086)", "T-SQL"]
-        self.learning   = ["React.js", "Advanced AI/ML",
-                           "Julia", "Indonesian", "Japanese", "Arabic"]
-        self.interests  = ["AI Research", "Web Dev", "Data Science",
-                           "Open Source", "Language Learning"]
-        self.projects   = ["Al-Qur'an Android App",
-                           "Face Recognition System",
-                           "Tailor Shop Web App",
-                           "Voice Assistant",
-                           "Candy Crush Clone",
-                           "Snake Game"]
+        self.name = "Muhammad Sachal"
+        self.role = "Full-Stack Developer & AI Engineer"
+        self.location = "Rahim Yar Khan, Punjab, Pakistan"
+        self.learning = ["Julia", "Advanced AI/ML", "Modern JavaScript"]
+        self.interests = ["AI Research", "Web Development", "Data Science"]
+        self.workingOn = ["AI-powered applications",
+                         "High-performance computing"]
+        self.code = ["Python", "C++", "C#", "JavaScript"]
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing.")
@@ -68,12 +73,11 @@ me.say_hi()
 
 <br>
 
-- 🎓 **BS Computer Science** @ FAST NUCES Lahore (2023–2027)
-- 🔭 Currently building **AI-powered apps & Android projects**
-- 🌱 Learning **React.js, Julia & Advanced ML**
-- 🗣️ Also studying **Indonesian, Japanese & Arabic** for fun
-- 💬 Ask me about **Python, C++, .NET Core, Assembly, AI/ML**
-- ⚡ Fun fact: I built a face recognition attendance system from scratch!
+- 🔭 I'm currently working on **AI-powered applications**
+- 🌱 I'm learning **Julia, Advanced AI/ML & Modern JavaScript**
+- 👯 I'm looking to collaborate on **Web Dev & AI/ML Projects**
+- 💬 Ask me about **Python, C++, .NET, AI/ML**
+- ⚡ Fun fact: **I turn complex problems into elegant solutions**
 
 <br>
 
@@ -83,7 +87,7 @@ me.say_hi()
 
 ---
 
-## 🛠️ Technology Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> Technology Arsenal
 
 <div align="center">
 
@@ -93,21 +97,17 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🔧 Frameworks & Tools
+### 🛠️ Frameworks & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
@@ -115,11 +115,10 @@ me.say_hi()
 ### 🎯 Currently Mastering
 
 <p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 </div>
@@ -130,18 +129,35 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachal2508&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" alt="GitHub Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachal2508&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff" alt="Top Languages" height="192px" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sachal2508&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachal2508&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120&hide_border=true" width="98%" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32" /> Coding Activity
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 📖 [**Al-Qur'an Android App**](https://github.com/Sachal2508/AL-Quran) | Feature-rich Qur'an app with translations, tafsir, bookmarks, prayer times & Qibla direction | React.js · Tailwind · Capacitor |
-| 🧑‍💼 [**Tailor Shop Web App**](https://github.com/Sachal2508/Tailor-Shop-Web-App) | Full-stack app for customer management, orders, invoices & employee accounts | .NET Core · C# · SQL Server · Bootstrap |
-| 👤 [**Face Recognition Attendance**](https://github.com/Sachal2508/Attendance-with-face-recognition) | Real-time student attendance via PC camera with CSV storage | Python · OpenCV · CMake |
-| 🎤 [**Voice Assistant**](https://github.com/Sachal2508/Google-Assistant) | Voice-activated assistant for commands, searches & app control | Python · Speech Recognition |
-| 🍬 [**Candy Crush Clone**](https://github.com/Sachal2508/Candy-Crush-Game) | Tile-matching game with custom graphics and grid logic | C++ · Game Dev |
-| 🐍 [**Snake Game**](https://github.com/Sachal2508/Snake-Game) | Classic Snake with smooth graphics and dynamic difficulty | Python · Pygame |
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sachal2508&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -151,87 +167,46 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sachal2508&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachal2508&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff" height="180px" />
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sachal2508&theme=dark&hide_border=true&stroke=00FF41&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachal2508&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41fb-b093-43d7d60b2c87.png" width="32" /> Current Focus
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="180" />
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200" alt="Coding" />
       <h3>🔭 Building</h3>
-      AI-powered applications<br>
-      Al-Qur'an Android App (React + Capacitor)<br>
-      High-performance C++ projects<br>
-      Machine Learning models
+      <p>
+        ✨ AI-powered applications<br>
+        ⚡ High-performance computing with Julia<br>
+        🌐 Modern web experiences with JavaScript<br>
+        🤖 Machine Learning models
+      </p>
     </td>
     <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="180" />
-      <h3>📚 Learning</h3>
-      React.js & Modern JavaScript<br>
-      Julia for scientific computing<br>
-      Advanced AI/ML & Deep Learning<br>
-      Indonesian · Japanese · Arabic
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="200" alt="Collaboration" />
+      <h3>🤝 Open to Collaborate On</h3>
+      <p>
+        🌟 Web Development Projects<br>
+        🧠 AI/ML Applications<br>
+        📊 Data Science Initiatives<br>
+        💻 Open Source Contributions
+      </p>
     </td>
   </tr>
 </table>
 
-</div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 </div>
 
 ---
 
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Grade |
-|---|---|---|---|
-| 🎓 BS Computer Science | FAST NUCES, Lahore | 2023 – 2027 | In Progress (5th Sem) |
-| 📘 FSc Pre-Engineering | Govt. College Graduate of Science | 2023 | **A** |
-| 📗 Matriculation (Science) | Govt. Chishtia High School | 2021 | **A+** |
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-</div>
-
----
-
-## 💼 Why Work With Me?
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="32" /> Why Work With Me?
 
 <div align="center">
 
 | 🎯 **Results-Driven** | 🔄 **Adaptable** | 🧩 **Problem Solver** |
 |:---:|:---:|:---:|
-| Deliver solutions that exceed expectations | Thrive in dynamic environments | Break down complex challenges methodically |
+| I deliver solutions that exceed expectations | Thrive in dynamic environments | Break down complex challenges methodically |
 
 | 📈 **Growth Mindset** | 🤝 **Team Player** | 💡 **Innovative** |
 |:---:|:---:|:---:|
@@ -245,31 +220,40 @@ me.say_hi()
 
 ---
 
-## 🤝 Let's Connect!
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32"> Let's Connect!
 
 <div align="center">
 
-I'm always open to new opportunities, interesting projects, or just talking tech. Let's build the future together! 🚀
+I'm always interested in discussing new opportunities, innovative projects, or just talking tech. Let's build the future together! 🚀
 
 <p>
-  <a href="mailto:sachalkool@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-sachal-9a929136a/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Sachal2508"><img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://sachal2508.github.io/"><img src="https://img.shields.io/badge/Visit_Portfolio-00FF41?style=for-the-badge&logo=firefox&logoColor=black" /></a>
+  <a href="mailto:sachalkool@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-sachal-9a929136a/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sachal2508">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://sachal2508.github.io/">
+    <img src="https://img.shields.io/badge/View_Portfolio-00FF41?style=for-the-badge&logo=firefoxbrowser&logoColor=black" />
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### 💭 Quote of the Day
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 
 <br>
 
-*"Clean code always looks like it was written by someone who cares."* – Robert C. Martin
+<i>"Clean code always looks like it was written by someone who cares."</i> – Robert C. Martin
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:0D1117&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 
 <p>⭐️ From <a href="https://github.com/Sachal2508">Muhammad Sachal</a> — Let's build the future together!</p>
 
