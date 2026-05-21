@@ -60,7 +60,7 @@ class Developer:
         self.location = "Lahore, Punjab, Pakistan"
         self.learning = ["Julia", "Advanced AI/ML", "Modern JavaScript", "React"]
         self.interests = ["AI Research", "Web Development", "Data Science"]
-        self.workingOn = ["AI-powered applications", "Full stack Web development", 
+        self.workingOn = ["AI-powered applications", "Full stack Web dev", 
                          "High-performance computing"]
         self.code = ["Python", "C++", "C#", "JavaScript"]
 
