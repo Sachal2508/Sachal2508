@@ -57,10 +57,10 @@ class Developer:
     def __init__(self):
         self.name = "Muhammad Sachal"
         self.role = "Full-Stack Developer & AI Engineer"
-        self.location = "Rahim Yar Khan, Punjab, Pakistan"
-        self.learning = ["Julia", "Advanced AI/ML", "Modern JavaScript"]
+        self.location = "Lahore, Punjab, Pakistan"
+        self.learning = ["Julia", "Advanced AI/ML", "Modern JavaScript", "React"]
         self.interests = ["AI Research", "Web Development", "Data Science"]
-        self.workingOn = ["AI-powered applications",
+        self.workingOn = ["AI-powered applications", "Full stack Web development", 
                          "High-performance computing"]
         self.code = ["Python", "C++", "C#", "JavaScript"]
 
