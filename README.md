@@ -32,7 +32,7 @@
   <a href="https://github.com/Sachal2508">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://sachal2508.github.io/">
+  <a href="https://sachal-portfolio-9yif.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Portfolio" />
   </a>
 </p>
