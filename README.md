@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=SYSTEM+INITIALIZED...;WELCOME+TO+MY+DIGITAL+WORKSPACE;Full-Stack+Developer+%7C+AI%2FML+Engineer;Building+The+Future%2C+One+Line+At+A+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=SYSTEM+INITIALIZED...;WELCOME+TO+MY+DIGITAL+WORKSPACE;Building+Multi-Agent+AI+Systems;RAG+%7C+LLM+Apps+%7C+AI+Automation;Turning+Real-World+Problems+Into+Software" alt="Typing SVG" />
 
 </div>
 
@@ -19,7 +19,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&width=435&lines=Full-Stack+Developer;AI%2FML+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&width=435&lines=Full-Stack+Developer;AI%2FML+Engineer;Multi-Agent+Systems+Builder;Continuous+Learner" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -58,11 +58,16 @@ class Developer:
         self.name = "Muhammad Sachal"
         self.role = "Full-Stack Developer & AI Engineer"
         self.location = "Lahore, Punjab, Pakistan"
-        self.learning = ["Julia", "Advanced AI/ML", "Modern JavaScript", "React"]
-        self.interests = ["AI Research", "Web Development", "Data Science"]
-        self.workingOn = ["AI-powered applications", "Full stack Web dev", 
-                         "High-performance computing"]
-        self.code = ["Python", "C++", "C#", "JavaScript"]
+        self.education = "Final-Year CS Student @ FAST-NUCES"
+        self.internship = "AI Automation Intern @ Dafi Labs (with EmpRadar.ai)"
+        self.learning = ["Multi-Agent Orchestration", "Advanced RAG",
+                          "AI Automation (n8n)", "Modern Next.js"]
+        self.interests = ["Multi-Agent Systems", "RAG & LLM Apps",
+                           "AI Automation", "Full-Stack Web Dev"]
+        self.workingOn = ["FORGE: Multi-Agent AI Website Builder",
+                           "OpsAgent: AI Chief of Staff",
+                           "AI-powered products"]
+        self.code = ["Python", "C++", "C#", "JavaScript/TypeScript", "Dart"]
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing.")
@@ -73,13 +78,79 @@ me.say_hi()
 
 <br>
 
-- 🔭 I'm currently working on **AI-powered applications**
-- 🌱 I'm learning **Julia, Advanced AI/ML & Modern JavaScript**
-- 👯 I'm looking to collaborate on **Web Dev & AI/ML Projects**
-- 💬 Ask me about **Python, C++, .NET, AI/ML**
-- ⚡ Fun fact: **I turn complex problems into elegant solutions**
+- 🔭 I'm currently building **FORGE**, a multi-agent AI website builder (my Final Year Project)
+- 🧑‍💼 I'm interning as an **AI Automation Engineer at Dafi Labs**, building **OpsAgent**
+- 🌱 I'm learning **multi-agent orchestration, advanced RAG, and AI automation with n8n**
+- 👯 I'm looking to collaborate on **AI/ML, multi-agent systems & full-stack projects**
+- 💬 Ask me about **Python, RAG, FastAPI, Next.js, Flutter, AI Automation**
+- ⚡ Fun fact: **I turn complex problems into elegant, shippable products**
 
 <br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32"> Featured Projects
+
+### 📚 StudyTrove — Student Platform
+A student-focused platform for FAST-NUCES students, live at **[studytrove.vercel.app](https://studytrove.vercel.app)** — past papers, faculty ratings, an FYP idea hub, a Section Swap Board, AI-powered tools, and GSAP scroll animations.
+`React` `Node.js` `Python` `Supabase`
+
+### ⚡ FlexPro — FAST Academic Companion
+A timetable and academic-tracking companion app for FAST-NUCES students, with hardened parsing logic that resolved cross-program false positives and section-override bugs.
+`Flutter` `Riverpod`
+
+### 🤖 Islam AI — AI/RAG Islamic Knowledge Assistant
+A local-first Islamic knowledge assistant combining Quran, Hadith, and Tafsir sources — multilingual (Arabic/Urdu/English), 200k+ indexed records, semantic search with source-aware references.
+`Python` `FastAPI` `FAISS` `Sentence Transformers` `RAG`
+
+### 🕌 Al Quran — Quran Mobile Application
+A distraction-free Quran reading app for Android with a Gemini-powered Islamic chatbot, a redesigned Tasbih counter, and accurate prayer-time calculations — designed through a full HCI lifecycle (user research, Figma prototypes, Nielsen heuristic evaluation).
+`React` `Vite` `Capacitor` `Android` `Kotlin`
+
+### 🛠️ NutterTools — Developer/Productivity Tools
+A collection of 23 client-side developer and productivity tools in a single fast, fully client-side web app — no server round-trips.
+`React` `Vite` `TypeScript`
+
+### 👔 Tailor Shop — Business Management System
+A full-stack management platform for local Pakistani tailoring businesses — customer & measurement management, order/invoice tracking, employee & salary tracking, Urdu/English RTL interface, per-user data isolation.
+`ASP.NET Core` `C#` `MVC` `SQL Server/PostgreSQL`
+
+### 🏋️ Gym POS — POS + Computer Vision
+A gym management system combining point-of-sale operations with face-recognition attendance — automatic logging, duplicate-attendance prevention, membership/grace-period handling, multi-camera support, local backups.
+`React` `Tailwind CSS` `FastAPI` `Python` `SQLite`
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="32"> Internship & Academic Work
+
+### 🛠️ FORGE — Multi-Agent AI Website Builder *(Final Year Project)*
+A web-based multi-agent AI coding assistant that turns natural-language requests into deployable websites, comparable in spirit to v0.dev and Gamma.ai. 7 specialized agents, in-browser execution via WebContainers, a 4-stage UX pipeline with 12 reusable typed section components, and a 100% free-tier LLM stack (DeepSeek, Groq, Gemini, Mistral, Cerebras).
+`Next.js 16` `Tailwind` `FastAPI` `Supabase` `WebContainers`
+
+### 🧑‍💼 OpsAgent — AI Chief of Staff
+Capstone deliverable for the Dafi Labs internship — an AI-powered ops assistant with real-time observability via Server-Sent Events.
+`NestJS` `Next.js` `Groq` `Supabase`
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> Other Builds
+
+- 🔁 **n8n Multi-Agent Research Assistant** — Supabase RAG, Slack human-in-the-loop, Google Docs output, SSE audit logging
+- 💬 **NestJS AI Chatbot API** — Groq, Resend email, Sentry monitoring, Swagger docs
+- 💰 **LedgerFlow** — AI-powered tools suite for chartered accountants (Next.js, Prisma, Koyeb PostgreSQL, OpenRouter)
+- 🎨 **Personal Portfolio** — Next.js, GSAP animations, custom cursor trails, infinite marquee skills display
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
@@ -98,6 +169,8 @@ me.say_hi()
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -105,20 +178,27 @@ me.say_hi()
 ### 🛠️ Frameworks & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-### 🎯 Currently Mastering
+### 🎯 AI / ML Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-00FF41?style=for-the-badge&logo=databricks&logoColor=black" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-00FF41?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 </div>
@@ -142,6 +222,11 @@ me.say_hi()
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachal2508&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120&hide_border=true" width="98%" alt="Contribution Graph" />
+</div>
+
+<!-- New: animated contribution snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sachal2508/Sachal2508/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Contribution Snake" />
 </div>
 
 <div align="center">
@@ -175,20 +260,20 @@ me.say_hi()
       <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200" alt="Coding" />
       <h3>🔭 Building</h3>
       <p>
-        ✨ AI-powered applications<br>
-        ⚡ High-performance computing with Julia<br>
-        🌐 Modern web experiences with JavaScript<br>
-        🤖 Machine Learning models
+        🧩 Multi-agent AI systems (FORGE)<br>
+        🧑‍💼 AI ops assistants (OpsAgent)<br>
+        🧠 RAG pipelines & semantic search<br>
+        🔁 AI automation with n8n
       </p>
     </td>
     <td align="center" width="50%">
       <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="200" alt="Collaboration" />
       <h3>🤝 Open to Collaborate On</h3>
       <p>
-        🌟 Web Development Projects<br>
-        🧠 AI/ML Applications<br>
-        📊 Data Science Initiatives<br>
-        💻 Open Source Contributions
+        🌟 AI/ML & multi-agent projects<br>
+        🧠 RAG & LLM applications<br>
+        🌐 Full-stack web & mobile apps<br>
+        💻 Open source contributions
       </p>
     </td>
   </tr>
@@ -210,7 +295,7 @@ me.say_hi()
 
 | 📈 **Growth Mindset** | 🤝 **Team Player** | 💡 **Innovative** |
 |:---:|:---:|:---:|
-| Continuous learning & improvement | Collaborate effectively | Bring fresh perspectives |
+| Continuous learning & improvement | Collaborate effectively | Bring fresh perspectives with AI |
 
 </div>
 
@@ -236,7 +321,7 @@ I'm always interested in discussing new opportunities, innovative projects, or j
   <a href="https://github.com/Sachal2508">
     <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://sachal2508.github.io/">
+  <a href="https://sachal-portfolio-9yif.vercel.app/">
     <img src="https://img.shields.io/badge/View_Portfolio-00FF41?style=for-the-badge&logo=firefoxbrowser&logoColor=black" />
   </a>
 </p>
